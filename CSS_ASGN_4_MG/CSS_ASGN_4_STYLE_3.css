@@ -1,0 +1,86 @@
+
+
+.Heading_3 {
+
+    width: 50%;
+    height: auto;
+    margin: 20px auto;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 2px 2px 5px white ;
+    font-size: 60px
+
+}
+
+.Body_3 {
+
+    width: 60%;
+    height: auto;
+    margin: 20px auto;
+    color: white;
+    text-align: center;
+    border: 2px solid white;
+    box-shadow: 0px 0px 20px white;
+    padding: 20px;
+    text-shadow: 2px 2px 5px white ;
+
+}
+
+.Background_3 {
+
+    width: 750px;
+    height: 750px;
+    margin:auto;
+    background-image: url("Grimmchild.webp");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    box-shadow: 0px 0px 500px rgb(213, 0, 0);
+    border-radius: 100%;
+
+}
+
+body{
+
+    background-image: url("Grimm_image.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    padding: 5%;
+
+}
+
+.Arrows {
+
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.Backword {
+
+    background-color:unset;
+    border: 0px solid black;
+    color: white;
+    font-size: 75px;
+    text-shadow: 0px 0px 20px white ;
+    transform: rotate(180deg);
+    margin: 0px 0px 0px 40%;
+
+}
+
+.Forward {
+
+    background-color:unset;
+    border: 0px solid black;
+    color: white;
+    font-size: 75px;
+    text-shadow: 0px 0px 20px white ;
+    float: right;
+    margin: 0px 40% 0px 0px;
+    
+}

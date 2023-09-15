@@ -1,0 +1,83 @@
+
+
+.Heading_2 {
+
+    width: 50%;
+    height: auto;
+    margin: 20px auto;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 0px 0px 5px black ;
+    font-size: 60px
+
+}
+
+.Body_2 {
+
+    width: 60%;
+    height: auto;
+    margin: 20px auto;
+    color: white;
+    text-align: center;
+    border: 2px solid white;
+    box-shadow: 0px 0px 20px white;
+    padding: 20px;
+    text-shadow: 2px 2px 5px white ;
+    background-image: linear-gradient(Black, rgb(74, 74, 74), black);
+
+}
+
+.Background_2 {
+    
+    width: 750px;
+    height: 750px;
+    margin:auto;
+    background-image: url("Dream_Wielder_2.webp");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    box-shadow: 0px 0px 500px #ef8e38;
+    opacity: 1;
+    border-radius: 100%;
+
+}
+body{
+
+    background-image: linear-gradient(to right, #e5954f, #ffff82,rgb(255, 248, 181), #ffff82,#e5954f);
+    padding: 5%;
+
+}
+
+.Arrows {
+
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Backword {
+
+    background-color:unset;
+    border: 0px solid black;
+    color: black;
+    font-size: 75px;
+    text-shadow: 0px 0px 20px black ;
+    transform: rotate(180deg);
+    margin: 0px 0px 0px 40%;
+
+}
+
+.Forward {
+
+    background-color:unset;
+    border: 0px solid black;
+    color: black;
+    font-size: 75px;
+    text-shadow: 0px 0px 20px black ;
+    float: right;
+    margin: 0px 40% 0px 0px;
+    
+}
